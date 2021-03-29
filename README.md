@@ -1,6 +1,6 @@
 # sgcc-component
 
-> admin template component
+> admin component
 
 [![NPM](https://img.shields.io/npm/v/sgcc-component.svg)](https://www.npmjs.com/package/sgcc-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -28,9 +28,9 @@ class Example extends React.Component {
 
 ```
 
-## 组件文档
+## 地址
 
-访问地址：[http://www.addbb06.site/sgcc-component/](http://www.addbb06.site/sgcc-component/)
+访问地址：[http://60.28.54.104:17001](http://60.28.54.104:17001)
 
 ## 开发说明
 
